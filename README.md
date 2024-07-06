@@ -5,5 +5,4 @@
 both of these metrics tells you exactly how much your business is growing over time. If growth is higher than churn, you can say your business is growing. 
 If churn is higher than growth, your business is getting smaller. <br>
 
-<h2>For More Information:<h2/>
-[Click here](https://github.com/atharvahatekar/Customer-Churn-Prediction/blob/main/Presentation.pdf)
+**For More Information:** [Click here](https://github.com/atharvahatekar/Customer-Churn-Prediction/blob/main/Presentation.pdf)
