@@ -4,3 +4,6 @@
 3. Churn is a good indicator of growth potential. Churn rates track lost customers, and growth rates track new customers—comparing and analyzing 
 both of these metrics tells you exactly how much your business is growing over time. If growth is higher than churn, you can say your business is growing. 
 If churn is higher than growth, your business is getting smaller. <br>
+
+<h2>For More Information:<h2/>
+[Click here](https://github.com/atharvahatekar/Customer-Churn-Prediction/blob/main/Presentation.pdf)
